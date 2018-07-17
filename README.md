@@ -21,5 +21,5 @@ react-dom
 react-router-dom
 react-scripts
 
-
+![Image of NYT React App](https://github.com/Tapesh123/NPR_NewsScraper/blob/master/NPRscraper.gif)
 
